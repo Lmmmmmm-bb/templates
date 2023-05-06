@@ -7,6 +7,7 @@
 - [vue + vite starter](https://github.com/Lmmmmmm-bb/vite-vue-starter)
 - [react + vite starter](https://github.com/Lmmmmmm-bb/vite-react-starter)
 - [react lib starter](https://github.com/Lmmmmmm-bb/react-lib-starter)
+- [nuxt starter](https://github.com/Lmmmmmm-bb/nuxt-starter)
 
 ---
 
